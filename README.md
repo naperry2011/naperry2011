@@ -23,7 +23,7 @@
 
 ## 🔝 Top Projects
 
-[![Level up in Tech Bootcamp][(https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1)](https://github.com/YourGitHubUsername/Project1)](https://github.com/naperry2011/LUIT)
+[![LUIT](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=LUIT)](https://github.com/naperry2011/LUIT)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2)](https://github.com/YourGitHubUsername/Project2)
 
 ## 🤝 Connect with Me
