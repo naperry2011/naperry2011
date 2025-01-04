@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm [Nick "CyberDad" Perry]
+# 👋 Hi there, I'm Nick "CyberDad" Perry
 
-I'm a passionate software developer who loves building things that live on the internet. I focus on creating software that helps people make their lives easier and more enjoyable.
+🌟 I'm a passionate tech developer driven by the excitement of building innovative web and mobile applications. With a knack for leveraging cloud technologies ☁️ and the transformative power of AI 🤖, I strive to craft solutions that are not only efficient but also impactful. Whether it's creating seamless user experiences, optimizing workflows, or exploring cutting-edge tech, I'm all about pushing the boundaries of what's possible. Let's build the future, one line of code at a time! 🚀
 
 ## 🚀 About Me
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technology/Skill]
+- 🔭 I'm currently working on a web app called Pantry Chef
+- 🌱 I'm currently learning networking/scripting
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 💬 Ask me anything about baseball ⚾, gaming 🎮, tech 💻, or just life in general 🌟—I’m always up for a great conversation!
+- 📫 How to reach me: perry.ai2011@gmail.com 💌
+- ⚡ Fun fact: I’m a big fan of video games 🎮 and love exploring the great outdoors through hiking ⛰️!
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
