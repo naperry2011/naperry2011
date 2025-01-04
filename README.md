@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![naperry2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/naperry2011)
 
 ## 🔝 Top Projects
 
