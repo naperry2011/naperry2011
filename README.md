@@ -24,7 +24,6 @@
 ## 🔝 Top Projects
 
 [![LUIT](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=LUIT)](https://github.com/naperry2011/LUIT)
-[![PantryChef](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=PantryChef)](https://github.com/naperry2011/PantryChef)
 
 ## 🤝 Connect with Me
 
