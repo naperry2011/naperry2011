@@ -23,6 +23,7 @@
 ## 🔝 Top Projects
 
 [![LUIT](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=LUIT)](https://github.com/naperry2011/LUIT)
+[![Weather_App][(https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=LUIT)](https://github.com/naperry2011/LUIT)](https://github.com/naperry2011/Weather_App)
 
 ## 🤝 Connect with Me
 
