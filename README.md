@@ -49,10 +49,10 @@
 
 ### 🎯 Goals for 2025
 - [ ] Contribute to 50 open source projects
-- [ ] Learn [New Technology]
-- [ ] Build a significant project using [Technology Stack]
+- [ ] Learn VM management
+- [ ] Build a significant project using next.js, vercel, supabase
 - [ ] Write 20 technical blog posts
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From naperry2011(https://github.com/naperry2011)
