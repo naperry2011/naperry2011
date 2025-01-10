@@ -27,17 +27,16 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your-Twitter-URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](Your-Portfolio-URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naperry2011/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://perryio.replit.app/)
 
 ---
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Full Stack CI/CD with Jenkins, Terraform, Ansible, Docker, and Kubernetes](https://medium.com/@naperry2011/full-stack-ci-cd-with-jenkins-terraform-ansible-docker-and-kubernetes-02edcfe57285)
-- [Blog Post 2](Link)
-- [Blog Post 3](Link)
+- [Automating Serverless Website Deployment via CI/CD Pipeline](https://medium.com/@naperry2011/automating-serverless-website-deployment-via-ci-cd-pipeline-3f4aa48aa970)
+- [Building a Green Utopia: Profiting from Tower Gardens and Technology](https://medium.com/@naperry2011/building-a-green-utopia-profiting-from-tower-gardens-and-technology-38aa4d7e8be1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
