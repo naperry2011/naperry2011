@@ -35,7 +35,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](Link)
+- [Full Stack CI/CD with Jenkins, Terraform, Ansible, Docker, and Kubernetes](https://medium.com/@naperry2011/full-stack-ci-cd-with-jenkins-terraform-ansible-docker-and-kubernetes-02edcfe57285)
 - [Blog Post 2](Link)
 - [Blog Post 3](Link)
 <!-- BLOG-POST-LIST:END -->
