@@ -78,6 +78,8 @@ A satirical app that calculates what your employer pays you while you're on brea
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://rootsashe.com"><img src="https://rootsashe.com/opengraph-image.png" alt="RootsAshé" width="100%"></a>
+
 ### [RootsAshé](https://rootsashe.com)
 A community longevity practice inspired by the world's longest-lived cultures. Five pillars (Nourishment, Movement, Mindfulness, Connection, Cultivation), daily logging, and rotating challenges that reward you. Live on the web with a companion Android app.
 
