@@ -1,58 +1,129 @@
-# 👋 Hi there, I'm Nick "CyberDad" Perry
+# Hi, I'm Nick "CyberDad" Perry
 
-🌟 I'm a passionate tech developer driven by the excitement of building innovative web and mobile applications. With a knack for leveraging cloud technologies ☁️ and the transformative power of AI 🤖, I strive to craft solutions that are not only efficient but also impactful. Whether it's creating seamless user experiences, optimizing workflows, or exploring cutting-edge tech, I'm all about pushing the boundaries of what's possible. Let's build the future, one line of code at a time! 🚀
+I build web and mobile apps that people actually use: card games from the cookout table, a wellness practice rooted in heritage, a reading journal, and a recruitment platform for foster care. Flutter and Next.js on the front, Supabase and the cloud underneath, AI in the workflow.
 
-## 🚀 About Me
-- 🔭 I'm currently working on a web app called Pantry Chef
-- 🌱 I'm currently learning networking/scripting
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me anything about baseball ⚾, gaming 🎮, tech 💻, or just life in general 🌟—I’m always up for a great conversation!
-- 📫 How to reach me: perry.ai2011@gmail.com 💌
-- ⚡ Fun fact: I’m a big fan of video games 🎮 and love exploring the great outdoors through hiking ⛰️!
-
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Networking-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-
-## 📊 GitHub Stats
-[![naperry2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=naperry2011&show_icons=true&theme=radical)](https://github.com/naperry2011)
-
-## 🔝 Top Projects
-
-[![LUIT](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=LUIT)](https://github.com/naperry2011/LUIT)
-[![Weather_App](https://github-readme-stats.vercel.app/api/pin/?username=naperry2011&repo=Weather_App)](https://github.com/naperry2011/Weather_App)
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naperry2011/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://perryio.replit.app/)
+- Shipping right now: Flutter apps for Android and iOS, plus the Next.js sites behind them
+- Background: cloud and SRE (AWS, Terraform, Docker, Kubernetes, CI/CD)
+- Talk to me about: baseball, gaming, tech, or life in general
+- Reach me: perry.ai2011@gmail.com
 
 ---
 
-### 📝 Latest Blog Posts
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/naperry2011/Afterword"><img src="https://raw.githubusercontent.com/naperry2011/Afterword/HEAD/docs/store/play-feature-graphic.png" alt="Afterword" width="100%"></a>
+
+### [Afterword](https://github.com/naperry2011/Afterword)
+A private, reflection-first reading journal. Finish a book, answer three questions in under ninety seconds, and text a friend a recommendation card. No account, no server, everything on device.
+
+`Flutter` `iOS` `Android`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/naperry2011/tonk"><img src="https://raw.githubusercontent.com/naperry2011/tonk/HEAD/store/feature-graphic.png" alt="Tonk" width="100%"></a>
+
+### [Tonk](https://github.com/naperry2011/tonk) &middot; [Play it](https://tonk-six.vercel.app)
+The cookout card game, in your pocket. Lay your spreads, hit theirs, and knock when you think you hold the lowest hand. Shared rules engine across a web build and a Flutter app, with CI on every push.
+
+`Flutter` `Dart` `JavaScript` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/naperry2011/Pitty_Pat"><img src="https://raw.githubusercontent.com/naperry2011/Pitty_Pat/HEAD/docs/release/store/feature_graphic_1024x500.png" alt="Pitty Pat" width="100%"></a>
+
+### [Pitty Pat](https://github.com/naperry2011/Pitty_Pat) &middot; [Play it](https://pitty-pat-glwy.vercel.app)
+The classic Southern card game, rebuilt for the browser and Android. Pure-function game engine, AI opponents, and 260 passing tests.
+
+`Next.js 16` `React 19` `TypeScript` `Flutter`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/naperry2011/Fuck_Corpo_V2"><img src="https://raw.githubusercontent.com/naperry2011/Fuck_Corpo_V2/HEAD/app/store_assets/play/feature-graphic-1024x500.png" alt="F*ck Corpo" width="100%"></a>
+
+### [F\*ck Corpo](https://github.com/naperry2011/Fuck_Corpo_V2) &middot; [Website](https://fuckcorpov2-web.vercel.app)
+A satirical app that calculates what your employer pays you while you're on break. Payslip-parody design, a pixel-art CEO mascot who gets angrier as you earn, and receipts you can share.
+
+`Flutter` `Android` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [RootsAshé](https://rootsashe.com)
+A community longevity practice inspired by the world's longest-lived cultures. Five pillars (Nourishment, Movement, Mindfulness, Connection, Cultivation), daily logging, and rotating challenges that reward you. Live on the web with a companion Android app.
+
+`Next.js 16` `Supabase` `Prisma` `Flutter`
+
+</td>
+<td width="50%" valign="top">
+
+### [Porchlight](https://github.com/naperry2011/Foster-Care) &middot; [Live](https://porchlightfostercare.org)
+Recruitment software for foster care agencies. Capture interest at community events, nurture "not yet" for years, and trace every licensed home back to where it started. Built in response to Arizona's foster home shortage.
+
+`Next.js 16` `TypeScript` `Supabase + RLS`
+
+</td>
+</tr>
+</table>
+
+### Client Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Twinkling Hearts In Home Care](https://twinkling-hearts.vercel.app) | Fast, accessible, SEO-ready marketing site for a home care agency | Astro, Tailwind v4 |
+| [SafeScreen Logistics](https://safescreenlogistics-demo.vercel.app) | Business site refresh | Next.js, TypeScript |
+| [Proctor House Rottweilers](https://proctor-house-rottweilers.vercel.app) | Breeder platform | Next.js, TypeScript |
+| [The Motions](https://the-motions.vercel.app) | Creative project site | Next.js, TypeScript |
+| [Beats Backlog](https://beats-backlog.vercel.app) | Game review platform | Next.js, TypeScript |
+
+### Cloud and DevOps
+
+[Terraform](https://github.com/naperry2011/Terraform) &middot; [Docker App Deploy](https://github.com/naperry2011/docker_app_deploy) &middot; [CI/CD Config](https://github.com/naperry2011/ci-cd-config) &middot; [PNC Sr. SRE Capstone](https://github.com/naperry2011/PNC_Capstone) &middot; [LUIT](https://github.com/naperry2011/LUIT)
+
+---
+
+## Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+## GitHub Stats
+
+[![naperry2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=naperry2011&show_icons=true&theme=radical)](https://github.com/naperry2011)
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Full Stack CI/CD with Jenkins, Terraform, Ansible, Docker, and Kubernetes](https://medium.com/@naperry2011/full-stack-ci-cd-with-jenkins-terraform-ansible-docker-and-kubernetes-02edcfe57285)
 - [Automating Serverless Website Deployment via CI/CD Pipeline](https://medium.com/@naperry2011/automating-serverless-website-deployment-via-ci-cd-pipeline-3f4aa48aa970)
 - [Building a Green Utopia: Profiting from Tower Gardens and Technology](https://medium.com/@naperry2011/building-a-green-utopia-profiting-from-tower-gardens-and-technology-38aa4d7e8be1)
 <!-- BLOG-POST-LIST:END -->
 
----
+## Connect
 
-### 🎯 Goals for 2025
-- [ ] Contribute to 50 open source projects
-- [ ] Learn VM management
-- [ ] Build a significant project using next.js, vercel, supabase
-- [ ] Write 20 technical blog posts
-
----
-
-⭐️ From naperry2011(https://github.com/naperry2011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naperry2011/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-naperry2011s-projects.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@naperry2011)
